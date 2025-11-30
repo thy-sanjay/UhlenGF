@@ -1,0 +1,15 @@
+Module annotation summary
+
+Module file used: modules_louvain.csv
+Families from family_members: 1076
+Background families (family_members union modules): 1101
+Localization -> families: SP=430, TM=501
+
+Modules with significant enrichments (FDR < 0.05):
+
+Module 0 (size=206): sp(hits=100, fdr=0.00824)
+Module 4 (size=212): tf(hits=30, fdr=0.0111); onco(hits=49, fdr=0.000873)
+
+Saved detailed files:
+ - D:\Projects\UhlenGF\Model\results\annotated_modules.csv
+ - D:\Projects\UhlenGF\Model\results\annotated_module_details.csv

@@ -1,0 +1,1077 @@
+family_name,module,is_sp,is_tm,is_tf,is_drug,is_onco
+1-acylglycerophosphoethanolamine O-acyltransferases,0,0,1,0,0,0
+14-3-3 phospho-serine/phospho-threonine binding proteins,1,0,0,0,0,1
+2'-5'-oligoadenylate synthetase family,2,0,0,0,0,0
+2-arachidonoylglycerol hydrolases,0,1,1,0,0,0
+3-hydroxyacyl-CoA dehydratase family,3,0,1,0,0,0
+3M complex subunits,0,0,0,0,0,0
+5'-nucleotidases,4,1,1,0,0,1
+"5-hydroxytryptamine receptors, G protein-coupled",1,0,1,0,0,0
+"5-hydroxytryptamine receptors, ionotropic ",5,0,0,0,0,0
+"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase family",5,0,0,0,0,0
+7BS non-methyltransferases,3,0,1,0,0,0
+7BS orphan methyltransferases,3,1,1,0,0,0
+7BS protein glutamine methyltransferases,3,0,0,0,0,0
+7BS protein lysine methyltransferases,3,0,0,0,0,0
+7BS protein methyltransferases,5,0,0,0,0,0
+7BS small molecule methyltransferases,5,1,1,0,0,0
+7D cadherins,0,1,1,0,0,0
+7SK snRNP complex,4,0,0,0,0,0
+7TM uncharacterized proteins,3,1,1,0,0,0
+A-kinase anchoring proteins,3,1,1,0,0,1
+AAA ATPases,4,1,1,0,0,0
+ACF complex,2,0,0,0,0,0
+ADAM metallopeptidase domain containing,3,1,1,0,0,0
+ADAM metallopeptidases with thrombospondin type 1 motif,0,1,1,0,0,0
+ADAMTS like,0,1,0,0,0,0
+ADP-ribosyltransferase family,5,1,1,0,0,0
+AF4/FMR2 family,4,0,0,0,0,1
+AH domain containing,3,1,1,0,0,0
+AH/BAR family Rho GTPase activating proteins,2,1,1,0,0,1
+AKT kinase family,0,0,0,0,0,1
+ANP32 acidic nuclear phosphoproteins,4,0,0,0,0,0
+APC membrane recruitment proteins,1,0,0,0,0,1
+ARF GTPase family,3,1,1,0,0,0
+ASAP complex subunits,4,0,0,0,0,0
+AT-rich interaction domain containing,2,0,0,1,0,0
+ATAC complex,4,0,0,0,0,0
+ATP binding cassette subfamily A,3,0,1,0,0,0
+ATP binding cassette subfamily B,4,0,1,0,0,0
+ATP binding cassette subfamily C,0,0,1,0,0,0
+ATP binding cassette subfamily D,0,0,1,0,0,0
+ATP binding cassette subfamily E,4,0,0,0,0,0
+ATP binding cassette subfamily F,4,0,0,0,0,0
+ATP binding cassette subfamily G,0,1,1,0,0,0
+ATPase F1/V1 alpha/A and beta/B subunit family,5,1,0,0,0,0
+ATPase H+/K+ transporting,0,0,1,0,0,0
+ATPase Na+/K+ transporting subunits,1,0,1,0,0,1
+ATPase copper transporting,0,0,1,0,0,0
+ATPase orphan transporters,2,1,1,0,0,0
+ATPase phospholipid transporting,2,0,1,0,0,0
+ATPases Ca2+ transporting,0,0,1,0,0,0
+Abhydrolase domain containing,3,1,1,0,0,0
+Abl family tyrosine kinases,0,0,0,0,0,1
+Acetyl-CoA carboxylase family,5,1,0,0,0,0
+Acid phosphatases,3,1,1,0,0,0
+Acid sensing ion channel subunits,1,0,1,0,0,0
+Actin related protein 2/3 complex subunits,2,0,0,0,0,0
+Actin related proteins,3,0,0,0,0,0
+Actinins,0,0,0,0,0,0
+Actins,0,0,0,0,0,0
+Activating leukocyte immunoglobulin like receptors,2,1,1,0,0,0
+Activating signal cointegrator 1 complex,4,0,0,0,0,0
+Acyl-CoA synthetase family,5,1,1,0,0,1
+Acyl-CoA thioesterases,5,0,0,0,0,0
+Adaptor related protein complex 1,2,0,0,0,0,0
+Adaptor related protein complex 2,1,0,0,0,0,0
+Adaptor related protein complex 3,3,0,0,0,0,0
+Adaptor related protein complex 4,4,0,0,0,0,0
+Adaptor related protein complex 5,2,0,1,0,0,0
+Adducin family,4,0,0,0,0,0
+Adenosine deaminase family,2,1,0,0,0,0
+Adenosine deaminases acting on RNA,4,0,0,0,0,0
+Adenosine receptors,1,0,1,0,0,0
+Adenylate cyclases,0,0,1,0,0,0
+Adenylate kinases,3,1,0,0,0,0
+"Adhesion G protein-coupled receptors, subfamily A",0,1,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily B",1,0,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily D",0,1,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily E",2,1,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily F",0,1,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily G",2,1,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily L",0,0,1,0,0,0
+"Adhesion G protein-coupled receptors, subfamily V",1,1,1,0,0,0
+Adiponectin receptors,5,0,1,0,0,0
+Adrenoceptors,0,0,1,0,0,0
+Ajuba family,0,0,0,0,0,0
+Albuminoid family,5,1,0,0,0,0
+Alcohol dehydrogenases,5,0,0,0,0,0
+Aldehyde dehydrogenases,5,1,1,0,0,0
+Aldo-keto reductases,5,1,0,0,0,0
+Aldolases,5,1,0,0,0,0
+Alkaline ceramidases,0,0,1,0,0,0
+Alkaline phosphatases,5,1,1,0,0,0
+Alkylation repair homologs,3,1,0,0,0,0
+"Alpha 1,4-glycosyltransferases",0,1,0,0,0,0
+Alpha arrestins,2,0,0,0,0,0
+Alpha catenins,1,0,0,0,0,0
+"Alpha-1,2-glucosyltransferases",4,1,1,0,0,0
+"Alpha-1,3-glucosyltransferases",2,0,1,0,0,0
+Alpha-2-macroglobulin family,0,1,0,0,0,0
+Alpha-L-fucosidases,2,1,0,0,0,0
+Aminoacyl tRNA synthetase complex interacting multifunctional proteins,5,0,1,0,0,0
+"Aminoacyl tRNA synthetases, Class I",4,0,0,0,0,1
+"Aminoacyl tRNA synthetases, Class II",3,1,0,0,0,0
+Aminopeptidases,4,0,1,0,0,0
+Amylases alpha,5,1,0,0,0,0
+Anaphase promoting complex,4,1,1,0,0,0
+Angiopoietin like family,5,1,0,0,0,0
+Angiopoietins,0,1,0,0,0,0
+Angiotensin receptors,0,0,1,0,0,0
+Ankyrin repeat domain containing,3,1,1,1,0,1
+Annexins,2,0,0,0,0,0
+Anoctamins,0,1,1,0,0,0
+Antisense RNAs,3,1,1,0,0,0
+Apelin receptor,0,0,1,0,0,0
+Apolipoprotein B mRNA editing enzyme catalytic subunits,2,0,0,0,0,0
+Apolipoproteins,5,1,1,0,0,0
+Apoptosome,5,0,1,0,0,0
+Aquaporins,0,0,1,0,0,0
+Arachidonate lipoxygenases,5,0,0,0,0,0
+ArfGAPs,2,0,0,0,0,0
+ArfGEF family,3,0,0,0,0,0
+Arginine methyltransferases,4,1,1,0,0,0
+Arginine vasopressin and oxytocin receptors,0,0,1,0,0,0
+Argonaute RISC component family,4,0,0,0,0,0
+Armadillo like helical domain containing,4,1,1,1,0,1
+Armadillo repeat containing,3,1,1,0,0,1
+Aromatic amino acid hydroxylase family,1,0,0,0,0,0
+Arylacetamide deacetylase family,0,1,1,0,0,0
+Arylamine N-acetyltransferases,0,0,0,0,0,0
+Astacins,0,1,1,0,0,0
+Atlastins,3,0,1,0,0,0
+Atrophins,0,0,0,1,0,0
+Atypical chemokine receptors,2,0,1,0,0,1
+Atypical dual specificity phosphatases,3,1,1,0,0,0
+Aurora kinase family,2,0,0,0,0,0
+Autophagy related,4,1,1,0,0,0
+Axonemal dynein assembly factors,3,1,0,0,0,0
+Axonemal radial spoke subunits,3,0,0,0,0,0
+B-WICH chromatin-remodelling complex subunits,4,0,1,0,0,1
+B7 family,2,1,1,0,0,1
+BAF complex subunits,4,1,0,1,0,1
+BAG cochaperones,3,0,0,0,0,0
+BAG6 complex,4,0,0,0,0,0
+BAR and Dbl domain containing,0,0,0,0,0,0
+BAR-PH domain containing,4,0,0,0,0,0
+BBSome,3,0,1,0,0,0
+BCH domain containing ,3,0,0,0,0,0
+BCL2 family,2,0,1,0,0,1
+BCL2 homology region 3 (BH3) only,4,0,1,0,0,0
+BEACH domain containing ,2,0,0,0,0,0
+BEN domain containing,3,0,0,0,0,0
+BLOC-1 related complex subunits,4,0,0,0,0,0
+BPI fold containing,5,1,1,0,0,0
+BR serine/threonine kinases,1,0,1,0,0,0
+BRCA1 A complex,4,0,0,0,0,0
+BRCA1 B complex,4,0,0,0,0,1
+BRCA1 C complex,4,0,0,0,0,1
+BRICHOS domain containing,3,1,1,0,0,0
+BRISC complex,5,0,0,0,0,0
+BTB domain containing,3,1,1,1,0,1
+BTG/Tob family,2,0,0,0,0,1
+BUB1 mitotic checkpoint serine/threonine kinase family,2,0,0,0,0,1
+Baculoviral IAP repeat containing,2,0,0,0,0,0
+Basic helix-loop-helix proteins,1,1,0,1,0,1
+Basic leucine zipper proteins,2,1,1,1,0,1
+Basigin family ,3,0,0,0,0,0
+Basonuclin zinc finger proteins,3,1,0,1,0,0
+Beaded filament structural proteins,0,0,0,0,0,0
+Bestrophins,0,0,1,0,0,0
+Beta 3-glycosyltransferases,0,1,1,0,0,0
+Beta 4-glycosyltransferases,3,1,1,0,0,0
+Beta catenins,0,0,0,0,0,1
+"Beta-1,3-glucuronyltransferases",1,1,1,0,0,0
+Beta-gamma crystallin domain containing,0,0,0,0,0,0
+Beta-gamma crystallins,5,0,0,0,0,0
+Biogenesis of lysosomal organelles complex 1 subunits,4,0,0,0,0,0
+Biogenesis of lysosomal organelles complex 2 ,2,0,0,0,0,0
+Biogenesis of lysosomal organelles complex 3 ,4,0,0,0,0,0
+Bisphosphoglycerate phosphatases,5,0,0,0,0,0
+Bivalent Mical/EHBP Rab binding domain containing,0,1,0,0,0,0
+Blood group antigens,0,1,1,0,0,0
+Bombesin receptors,5,0,1,0,0,0
+Bone morphogenetic proteins,0,1,1,0,0,0
+Bradykinin receptors,0,0,1,0,0,0
+Brain expressed X-linked family,1,0,0,0,0,0
+Branched chain amino acid transaminase family,0,0,0,0,0,0
+Bridge-like lipid transfer protein family,4,1,1,0,0,0
+Bromodomain and WD repeat domain containing,4,0,0,0,0,0
+Bromodomain containing,4,1,1,1,0,1
+Butyrophilins,2,1,1,0,0,0
+C-C motif chemokine receptors,2,0,1,0,0,0
+C-X-3-C motif chemokine receptors,1,0,1,0,0,0
+C-X-C motif chemokine receptors,2,0,1,0,0,0
+C-type lectin domain containing,2,1,1,0,0,0
+C1-set domain containing,2,1,1,0,0,0
+C1q and TNF related,0,1,0,0,0,0
+C1q domain containing,0,1,0,0,0,0
+C2 and RasGAP domain containing,4,1,0,0,0,0
+C2 and WW domain containing,0,0,0,0,0,0
+C2 domain containing,3,1,1,0,0,1
+C2 domain containing phospholipases,0,0,0,0,0,0
+C2 domain containing protein kinases,4,0,1,0,0,0
+C2 tensin-type domain containing,3,0,0,0,0,0
+C2-set domain containing,2,1,1,0,0,0
+"C3 and PZP like, alpha-2-macroglobulin domain containing",0,1,1,0,0,0
+CAMK1 family,1,1,1,0,0,0
+CAMK2 family,1,1,1,0,0,0
+CAMKV family,1,0,0,0,0,0
+CAMSAP family,3,0,0,0,0,0
+CAP and C-type lectin domain containing,1,1,0,0,0,0
+CAP superfamily,0,1,1,0,0,0
+CASK family,0,0,1,0,0,0
+CBM complex,2,0,0,0,0,1
+CCAAT/enhancer binding proteins ,5,0,0,0,0,0
+CCC complex,4,0,1,0,0,0
+CCM adhesion complex,4,0,0,0,0,0
+CCR4-NOT transcription complex,4,0,0,1,0,1
+CD molecules,2,1,1,0,0,1
+CDC like kinases,4,0,1,0,0,0
+CDC14 phosphatases,3,0,1,0,0,0
+CDC42 binding protein kinase family,0,0,0,0,0,0
+CDC42 effector proteins,0,0,0,0,0,0
+CDC7 kinase family,4,0,0,0,0,0
+CDGSH iron sulfur domain containing,5,0,1,0,0,0
+CDK activating kinase complex,4,0,0,0,0,0
+CEA cell adhesion molecule family,2,1,1,0,0,0
+CELSR cadherins,5,1,1,0,0,0
+CERF complex,2,0,0,1,0,0
+"CILK1, MAK, MOK protein kinase family",3,0,0,0,0,0
+CKLF like MARVEL transmembrane domain containing,2,0,1,0,0,0
+CMG helicase complex,2,1,0,0,0,0
+COMM domain containing,4,0,0,0,0,0
+COP9 signalosome,3,0,0,0,0,0
+CORVET complex,4,0,0,0,0,0
+CREB3 transcription factor family,0,0,1,1,0,1
+CREC family,0,1,1,0,0,0
+CSAG family,3,1,0,0,0,0
+CST complex,2,0,0,0,0,0
+CT antigen family 45,5,0,0,0,0,0
+CT antigen family 47,3,0,0,0,0,0
+CTAGE family,3,0,1,0,0,0
+CTD family phosphatases,4,0,1,0,0,0
+CTLH complex subunits,4,1,0,0,0,0
+CUT class homeoboxes and pseudogenes,5,0,0,1,0,0
+Cadherin related,3,1,1,0,0,1
+Calcineurin subunits,1,0,0,0,0,0
+Calcitonin receptors,0,1,1,0,0,0
+Calcium channel auxiliary gamma subunits,1,0,1,0,0,0
+Calcium homeostasis modulators,2,1,1,0,0,0
+Calcium sensing receptors,5,0,1,0,0,0
+Calcium voltage-gated channel alpha1 subunits,1,0,1,0,0,1
+Calcium voltage-gated channel auxiliary alpha2delta subunits,1,1,1,0,0,0
+Calcium voltage-gated channel auxiliary beta subunits,1,0,0,0,0,0
+Calmodulin binding transcription activators ,5,0,0,0,0,0
+Calpains,0,0,0,0,0,0
+Cannabinoid receptors,2,0,1,0,0,0
+Canonical Notch ligands,0,1,1,0,0,0
+Canonical high mobility group,4,0,1,1,0,1
+Canopy FGF signaling regulators,2,1,0,0,0,0
+Carbonic anhydrases,0,1,1,0,0,0
+Carboxylesterases,5,1,1,0,0,0
+Cas scaffold protein family,2,1,0,0,0,0
+Casein kinase 1 family,4,0,0,0,0,0
+Caspase recruitment domain containing,2,0,1,0,0,1
+Caspase-2 PIDDosome complex,4,0,0,0,0,0
+Caspases,0,0,0,0,0,0
+CatSpermasome complex,3,1,1,0,0,0
+Catalase family,5,0,0,0,0,0
+Cathepsins,2,1,1,0,0,0
+Caveolins,0,0,1,0,0,0
+Cavins,0,0,0,0,0,0
+Cellular communication network factors,0,1,0,0,0,0
+Ceramide synthases,3,0,1,0,0,0
+Chaperonins,4,0,1,0,0,0
+Checkpoint clamp complex,4,0,0,0,0,0
+Checkpoint kinase 1 family,2,0,0,0,0,0
+Checkpoint kinase 2 family,2,1,1,0,0,1
+Chemerin receptors,0,0,1,0,0,0
+Chemokine ligands,2,1,1,0,0,0
+Chitinases,2,1,0,0,0,0
+Chloride channel accessory,0,1,1,0,0,0
+Chloride intracellular channels,2,0,0,0,0,0
+Chloride voltage-gated channels,5,0,1,0,0,0
+Cholecystokinin receptors,0,0,1,0,0,0
+Choline kinase family,4,0,0,0,0,0
+Cholinergic receptors muscarinic,1,0,1,0,0,0
+Cholinergic receptors nicotinic subunits,5,1,1,0,0,0
+Cholinesterase family,1,1,1,0,0,0
+Chordin family,1,1,0,0,0,0
+Chromatin accessibility complex,4,0,0,0,0,0
+Chromobox family,4,0,0,0,0,0
+Chromosomal passenger complex,2,0,0,0,0,0
+Chymotrypsin like elastases,5,1,0,0,0,0
+Chymotrypsins,5,1,0,0,0,0
+Cilia and flagella associated,3,1,1,1,0,1
+Ciliogenesis and planar polarity effector complex subunits,3,0,1,0,0,0
+Clarins,0,0,1,0,0,0
+Class III Cys-based CDC25 phosphatases,4,0,0,0,0,0
+Classical arrestins,1,0,0,0,0,0
+Clathrin subunits,3,0,0,0,0,1
+Claudins,0,1,1,0,0,0
+Cleavage and polyadenylation specific factor subunits,4,0,1,0,0,1
+Cleavage factor Im complex subunits,4,0,0,0,0,0
+Cleavage stimulation factor subunits,4,0,0,0,0,0
+Clustered protocadherins,1,1,1,0,0,0
+Coat protein complex I,3,1,1,0,0,0
+Coat protein complex II,2,1,0,0,0,0
+Cohesin complex,3,0,0,0,0,0
+Coiled-coil-helix-coiled-coil-helix domain containing proteins,5,0,0,0,0,0
+Collagen beta(1-O)galactosyltransferases,1,1,0,0,0,0
+Collagens,0,1,0,0,0,0
+Complement component GPCRs,2,0,1,0,0,0
+Complement system activation components,5,1,0,0,0,0
+Complement system regulators and receptors,5,1,1,1,0,0
+Complexins,1,0,0,0,0,0
+Components of oligomeric golgi complex,3,1,0,0,0,0
+Condensin I subunits,2,0,0,0,0,0
+Condensin II subunits,4,0,0,0,0,0
+Constitutive centromere associated network,4,0,0,0,0,0
+Contactin associated protein family,1,1,1,0,0,0
+Contactins,1,1,1,0,0,0
+Copines,1,0,0,0,0,0
+Cornichon family,3,0,1,0,0,0
+Cornified envelope precursor family,5,0,0,0,0,0
+Coronins,2,0,0,0,0,0
+Corticotropin releasing hormone receptors,1,1,1,0,0,0
+Creatine kinase family,0,1,0,0,0,0
+Crumbs complex components,1,1,1,0,0,0
+Csk family tyrosine kinases,2,0,0,0,0,0
+Cullins,4,0,0,0,0,0
+Cupredoxin superfamily,5,0,1,0,0,0
+Cyclic nucleotide gated channels,1,0,1,0,0,0
+Cyclin dependent kinases,4,0,1,0,0,1
+Cyclins,4,1,0,0,0,1
+Cyclophilin peptidylprolyl isomerases,4,1,1,0,0,0
+"Cystatins, type 1",5,0,0,0,0,0
+"Cystatins, type 2",3,1,0,0,0,0
+"Cystatins, type 4",5,1,0,0,0,0
+Cysteine rich secretory protein family,3,1,0,0,0,0
+Cysteine rich transmembrane BMP regulators,0,1,1,0,0,0
+Cytochrome P450 family 1,5,0,1,0,0,0
+Cytochrome P450 family 11,1,0,0,0,0,0
+Cytochrome P450 family 17,1,1,0,0,0,0
+Cytochrome P450 family 2,5,1,1,0,0,0
+Cytochrome P450 family 20,2,0,1,0,0,0
+Cytochrome P450 family 21,1,1,0,0,0,0
+Cytochrome P450 family 24,0,0,0,0,0,0
+Cytochrome P450 family 26,5,1,1,0,0,0
+Cytochrome P450 family 27,5,0,0,0,0,0
+Cytochrome P450 family 3,5,1,1,0,0,0
+Cytochrome P450 family 39,5,0,1,0,0,0
+Cytochrome P450 family 4,5,1,1,0,0,0
+Cytochrome P450 family 46,1,1,0,0,0,0
+Cytochrome P450 family 5,2,0,1,0,0,0
+Cytochrome P450 family 51,5,0,1,0,0,0
+Cytochrome P450 family 7,5,0,1,0,0,0
+Cytochrome P450 family 8,5,0,1,0,0,0
+Cytochrome b561,2,0,1,0,0,0
+Cytohesins,2,0,0,0,0,0
+Cytosolic iron-sulfur assembly components,5,1,0,0,0,0
+D-lactate dehydrogenase family,4,0,0,0,0,0
+DAN family,0,1,0,0,0,0
+DASH family,1,1,1,0,0,0
+DAZ RNA binding protein family ,3,0,0,0,0,0
+DDB1 and CUL4 associated factors,4,0,1,0,0,0
+DEAD-box helicases,4,1,0,0,0,1
+DEAH-box helicases,4,1,0,0,0,0
+DECID complex,4,0,0,0,0,0
+DENN domain containing,4,0,1,0,0,1
+DEP domain containing,3,1,1,0,0,0
+DMPK kinase family,1,0,1,0,0,0
+DNA cross-link repair family,2,0,0,0,0,0
+DNA glycosylases,4,1,0,0,0,1
+DNA ligases,3,0,0,0,0,0
+DNA polymerases,4,1,0,0,0,0
+DNA/RNA methyltransferases,4,0,1,1,0,1
+DNAJ (HSP40) heat shock proteins,3,1,1,1,0,0
+DOCK family Rho GEFs,0,0,0,0,0,0
+DREAM complex subunits,4,1,1,1,0,0
+Dbl family Rho GEFs,3,1,0,0,0,1
+Death associated protein kinases,2,0,1,0,0,0
+Death effector domain containing,4,0,0,0,0,0
+Death inducing signaling complex,2,1,1,0,0,1
+"Defensins, alpha",0,1,0,0,0,0
+"Defensins, beta",5,1,0,0,0,0
+Dehydrodolichyl diphosphate synthase ,2,0,0,0,0,0
+Deoxyribonucleoside kinases,2,0,0,0,0,0
+Depalmitoylases,2,1,1,0,0,0
+Desmosomal cadherins,5,1,1,0,0,0
+Desumoylating isopeptidases,3,0,0,0,0,0
+DexD/H helicases,4,0,1,0,0,1
+Diacylglycerol O-acyltransferase 2 family,5,0,1,0,0,0
+Diacylglycerol kinases,1,0,1,0,0,0
+Dihydrofolate reductase family,2,0,0,0,0,0
+Diphthamide biosynthesis genes,3,0,0,0,0,0
+Dishevelled binding antagonist of beta catenin family,0,0,0,0,0,0
+Dishevelled segment polarity proteins,0,0,0,0,0,0
+Dispanins,0,0,1,0,0,0
+Dispatched RND transporter family ,3,0,0,0,0,0
+Divergent protein kinase domain family,0,1,1,0,0,0
+Divergent transcripts,3,1,1,0,0,0
+Dolichyl D-mannosyl phosphate dependent mannosyltransferases,3,1,1,0,0,0
+Dolichyl-phosphate mannosyltransferase subunits,5,0,1,0,0,0
+Dopamine receptors,5,0,1,0,0,0
+Doublecortin like kinase family,1,0,1,0,0,0
+Doublecortin superfamily,3,0,0,0,0,0
+Dual oxidase family,0,1,1,0,0,0
+Dual oxidase maturation factor family,0,0,1,0,0,0
+Dual-specificity tyrosine-regulated kinase family,4,0,1,0,0,0
+Dynactin subunits,4,0,0,0,0,0
+Dynamin superfamily,5,0,0,0,0,0
+Dynamins,1,0,0,0,0,1
+Dynein 1 complex subunits,1,0,0,0,0,0
+Dynein 2 complex subunits,3,0,0,0,0,0
+Dynein regulatory complex,3,0,0,0,0,0
+"Dyneins, axonemal inner arm I1/f complex subunits",3,1,1,0,0,0
+"Dyneins, axonemal outer arm complex subunits",3,0,1,0,0,0
+E2F transcription factors,2,0,0,1,0,0
+EF-hand domain containing,3,1,1,0,0,1
+ELAV like RNA binding protein family,1,0,0,0,0,0
+ELMO domain containing,3,0,1,0,0,0
+ELOVL fatty acid elongase family,0,0,1,0,0,0
+EMAP like,4,0,0,0,0,1
+EMI domain containing,3,1,0,0,0,0
+EMSY complex,4,0,0,1,0,1
+ENAH/VASPs,0,0,0,0,0,0
+EPH receptors,3,1,1,0,0,0
+EPS8 signaling adaptor family,0,1,0,0,0,0
+ER membrane protein complex subunits,3,1,1,0,0,0
+ERCC excision repair associated,3,0,0,0,0,1
+ESCRT-0,3,0,0,0,0,0
+ESCRT-I,3,1,0,0,0,0
+ESCRT-II,2,0,0,0,0,0
+ESCRT-III,0,0,0,0,0,0
+ESCRT-III associated factors,2,0,0,0,0,0
+ESCRT-IV,0,0,0,0,0,0
+ETS transcription factor family,2,1,1,1,0,1
+EYA transcriptional coactivator and phosphatases,3,0,0,0,0,0
+Ectonucleoside triphosphate diphosphohydrolase family,0,1,1,0,0,0
+Ectonucleotide pyrophosphatase/phosphodiesterase family,0,1,1,0,0,0
+Elongator acetyltransferase complex ,3,0,0,0,0,0
+Elongin complex,3,0,0,0,0,0
+Endoplasmic reticulum to nucleus signaling family,0,1,1,0,0,0
+Endoribonucleases,4,1,0,0,0,0
+Endosome-associated recycling protein (EARP) complex,3,0,0,0,0,0
+Endothelin receptors,0,0,1,0,0,0
+Endothelins,0,1,0,0,0,0
+Engulfment and cell motility proteins,4,0,1,0,0,0
+Enolases,1,1,0,0,0,0
+Envelope ERV derived genes,0,1,1,0,0,0
+Ephrins,0,1,1,0,0,0
+Epsin family,0,0,0,0,0,0
+Erb-b2 receptor tyrosine kinases,0,1,1,0,0,1
+Estrogen receptors,3,0,0,1,0,0
+Estrogen related receptors,5,0,0,1,0,0
+Ethanolamine kinase family,3,0,1,0,0,0
+Eukaryotic translation initiation factor 2 alpha kinases,2,1,1,0,0,0
+Eukaryotic translation initiation factor 3,1,1,1,0,0,0
+Exocyst complex,4,0,0,0,0,0
+Exon junction complex,4,0,0,0,0,0
+Exonucleases,4,1,1,0,0,1
+Exosome complex,4,0,0,0,0,0
+Exostosin glycosyltransferase family,0,1,1,0,0,1
+Exportins,4,0,1,0,0,1
+Extended synaptotagmins,0,0,1,0,0,0
+F-BAR domain containing,2,0,0,0,0,1
+F-box and WD repeat domain containing,3,0,1,0,0,0
+F-box and leucine rich repeat proteins,3,1,1,1,0,0
+F-boxes other,3,0,0,0,0,1
+F2R receptors,0,1,1,0,0,0
+FA complementation groups,4,0,0,0,0,1
+FA core complex,4,1,1,0,0,1
+FASTK mitochondrial RNA binding family,5,0,0,0,0,0
+FERM domain containing,3,1,1,0,0,1
+FERRY complex subunits,3,1,0,0,0,0
+FET protein family,4,0,0,0,0,1
+FHF complex,4,0,1,0,0,0
+FKBP prolyl isomerase family,3,1,1,0,0,0
+FLYWCH family,1,0,0,0,0,0
+FOXM1-MMB complex subunits,2,0,0,1,0,0
+Family with sequence similarity 83 ,0,0,0,0,0,0
+Fascin family,3,0,0,0,0,0
+Fatty acid binding protein family,0,1,0,0,0,0
+Fatty acid desaturases,0,0,1,0,0,0
+Fatty acid hydroxylase domain containing,5,1,1,0,0,0
+Fc receptors,2,1,1,0,0,1
+Ferlin family,2,0,1,0,0,0
+Ferredoxin family,1,0,0,0,0,0
+Ferritin chains,2,0,1,0,0,0
+Fes family tyrosine kinases,4,0,1,0,0,0
+Fibril associated collagens with interrupted triple helices,3,1,0,0,0,0
+Fibrillar collagens,0,1,0,0,0,1
+Fibrillin family,0,1,0,0,0,0
+Fibrinogen C domain containing,0,1,0,0,0,0
+Fibrinogen chains,5,1,0,0,0,0
+Fibroblast growth factor family,2,1,0,0,0,0
+Fibronectin type III domain containing,3,1,1,0,0,1
+Fibulins,0,1,0,0,0,0
+Filamin family,0,0,0,0,0,0
+Flavin containing monooxygenases,3,1,0,0,0,0
+Flavoproteins,5,1,1,0,0,0
+Flotillins,4,0,0,0,0,0
+Forkhead boxes,3,0,0,1,0,1
+Formins,2,1,1,0,0,0
+Formyl peptide receptors,2,0,1,0,0,0
+Fos transcription factor family,2,0,0,1,0,0
+Free fatty acid receptors,2,0,1,0,0,0
+"Fructose-1,6-bisphosphatases",0,0,0,0,0,0
+Fucosyltransferases,2,1,1,0,0,0
+"G protein subunits alpha, group 12/13",4,0,0,0,0,0
+"G protein subunits alpha, group i",3,0,0,0,0,0
+"G protein subunits alpha, group q",3,0,0,0,0,1
+"G protein subunits alpha, group s",3,1,0,0,0,1
+G protein subunits beta,3,0,0,0,0,0
+G protein subunits gamma,1,0,0,0,0,0
+G protein-coupled bile acid receptor,2,0,1,0,0,0
+G protein-coupled estrogen receptor,5,0,1,0,0,0
+G protein-coupled receptor kinase family,4,0,0,0,0,0
+"G protein-coupled receptors, Class A orphans",1,1,1,0,0,1
+"G protein-coupled receptors, Class C orphans",0,0,1,0,0,0
+"G protein-coupled receptors, Class F frizzled",0,1,1,0,0,1
+G-patch domain containing,4,0,1,1,0,0
+GAGE family,3,0,0,0,0,0
+GATA zinc finger domain containing,3,0,0,1,0,1
+GATOR1 subcomplex,4,0,0,0,0,0
+GATOR2 subcomplex,4,0,0,0,0,0
+GBAF complex subunits,4,1,0,1,0,1
+GCN5 related N-acetyltransferases,3,1,1,0,0,0
+GDNF family ligands,0,1,0,0,0,0
+GET4-GET5 transmembrane domain recognition complex subunits,5,0,0,0,0,0
+GINS complex,4,0,0,0,0,0
+GIY-YIG endonuclease domain containing,2,0,1,0,0,0
+GLIPR family ,3,0,0,0,0,0
+GOLD domain containing,5,0,1,0,0,0
+GPN-loop GTPases,4,0,0,0,0,0
+GRAM domain containing,3,0,1,0,0,0
+"GTPases, IMAP",2,0,1,0,0,0
+Galactosidases alpha,2,1,0,0,0,0
+Galactosidases beta,3,1,0,0,0,0
+Galanin receptors,5,0,1,0,0,0
+Galectins,2,0,0,0,0,0
+Gamma-aminobutyric acid type A receptor subunits,1,1,1,0,0,0
+Gamma-aminobutyric acid type B receptor subunits,1,1,1,0,0,0
+Gamma-glutamyltransferases,0,1,1,0,0,0
+Gap junction proteins,5,0,1,0,0,0
+Gasdermins,4,1,0,0,0,0
+Gelsolin/villins,0,1,0,0,0,0
+Gemins,4,1,0,0,0,0
+General transcription factor IIA complex subunits,3,0,0,0,0,0
+General transcription factor IID complex subunits,4,0,0,1,0,0
+General transcription factor IIE complex subunits,4,0,0,0,0,0
+General transcription factor IIF complex subunits,4,0,0,0,0,0
+General transcription factor IIH complex subunits,3,0,0,0,0,1
+General transcription factor IIIB complex subunits,4,1,0,1,0,0
+General transcription factor IIIC complex subunits,4,0,1,0,0,0
+General transcription factors,2,0,0,1,0,1
+Gfo/Idh/MocA-like oxidoreductase domain containing,2,1,0,0,0,0
+Gla domain containing,5,1,1,0,0,0
+Glucagon receptor family,4,1,1,0,0,0
+Glucosaminyl (N-acetyl) transferases/xylosyltransferases,2,1,1,0,0,0
+"Glucose 6-phosphatases, catalytic",0,0,1,0,0,0
+Glucosylceramidases,0,1,0,0,0,0
+Glutamate ionotropic receptor AMPA type subunits,1,1,1,0,0,0
+Glutamate ionotropic receptor NMDA type subunits,1,0,1,0,0,0
+Glutamate ionotropic receptor delta type subunits,3,1,1,0,0,0
+Glutamate ionotropic receptor kainate type subunits,1,1,1,0,0,0
+Glutamate metabotropic receptors,1,1,1,0,0,0
+Glutamic--pyruvic transaminase family,4,0,0,0,0,0
+Glutamic-oxaloacetic transaminase family,5,1,0,0,0,0
+Glutamine amidotransferase class 1 domain containing,4,1,0,0,0,1
+Glutamine--fructose-6-phosphate transaminase family,0,1,1,0,0,0
+Glutamyl-tRNA amidotransferase subunits,5,0,0,0,0,0
+Glutaredoxin domain containing,5,0,0,0,0,0
+Glutathione peroxidase family,0,1,0,0,0,0
+Glycerol kinase family,3,0,1,0,0,0
+Glycerol-3-phosphate acyltransferases,0,0,1,0,0,0
+Glycine receptors,1,1,1,0,0,0
+Glycogen phosphorylases,0,0,0,0,0,0
+Glycogen synthase kinase 3 family,3,0,0,0,0,0
+Glycoprotein hormone receptors,3,1,1,0,0,1
+Glycoprotein hormone subunits,0,1,0,0,0,0
+Glycoside hydrolase family,2,1,1,0,0,0
+Glycoside hydrolase family 1,0,0,1,0,0,0
+Glycoside hydrolase family 31,0,1,1,0,0,0
+Glycosyl transferases group 1 domain containing,3,1,1,0,0,0
+Glycosylphosphatidylinositol transamidase complex,3,1,1,0,0,0
+Glycosylphosphatidylinositol-N-acetylglucosaminyltransferase complex,2,0,1,0,0,0
+Glycosyltransferase family 2,2,1,1,0,0,0
+Glycosyltransferase family 6,5,1,1,0,0,0
+Glycosyltransferase family 8,3,1,1,0,0,0
+Glycosyltransferase family 90,0,1,0,0,0,0
+Glyoxalase domain containing,5,1,0,0,0,0
+Glypicans,0,1,1,0,0,1
+Golgi associated RAB2 interactor family,3,0,0,0,0,0
+Golgi associated kinase family,0,1,1,0,0,0
+Golgi associated retrograde protein (GARP) complex,4,1,0,0,0,0
+"Golgi associated, gamma adaptin ear containing, ARF binding proteins",4,1,0,0,0,0
+Golgin related,3,0,0,0,0,0
+Golgins,3,0,1,1,0,1
+Gonadotropin releasing hormone receptors,1,0,1,0,0,0
+Granins,1,1,0,0,0,0
+Granule associated serine proteases of immune defence,2,1,0,0,0,0
+Growth hormone family,0,1,0,0,0,0
+Guanosine monophosphate reductase family,3,0,0,0,0,0
+Guanylate binding proteins,2,0,0,0,0,0
+Guided entry of tail-anchored proteins complex subunits,3,0,1,0,0,0
+H/ACA ribonucleoprotein complex,4,0,0,0,0,0
+H1 histones,0,0,0,0,0,0
+H2A histones,2,0,0,0,0,0
+H2B histones,2,0,0,0,0,0
+H3 histones,4,0,0,0,0,1
+H4 histones,2,0,0,0,0,1
+HAD Asp-based non-protein phosphatases,3,0,0,0,0,0
+HAD Asp-based protein phosphatases,1,0,0,0,0,0
+HAUS augmin like complex ,4,0,0,0,0,0
+HECT and RLD domain containing E3 ubiquitin protein ligases,4,0,1,0,0,0
+HECT domain containing,3,0,1,0,0,1
+HIRA histone chaperone complex subunits,4,0,0,0,0,0
+HNF class homeoboxes,3,0,0,1,0,1
+HOOK family,0,0,0,0,0,1
+HOOK related protein family,2,1,0,0,0,0
+HOPS complex,3,0,0,0,0,0
+HOXL subclass homeoboxes,0,0,1,1,0,1
+HUNK family kinases,0,0,0,0,0,0
+HUSH complex,4,0,0,0,0,0
+Haloacid dehalogenase like hydrolase domain containing,5,1,0,0,0,0
+Harbinger transposase derived genes,4,0,0,0,0,0
+Heat shock 70kDa proteins,3,1,0,0,0,0
+Heat shock 90kDa proteins,3,0,0,0,0,1
+Hedgehog signaling molecule family,3,1,0,0,0,0
+Helicases,4,0,1,0,0,0
+Helix-turn-helix CENPB type domain family,3,0,0,1,0,0
+Helix-turn-helix motif Psq family,2,1,0,0,0,0
+Heme peroxidase family,0,1,1,0,0,0
+Hemoglobin subunits,0,0,1,0,0,0
+Heparanase family,2,1,0,0,0,0
+Heparin binding growth factor family,4,0,0,0,0,1
+Hepatocyte nuclear factor 4 family,0,0,0,1,0,0
+Heterogeneous nuclear ribonucleoproteins,4,0,0,0,0,1
+Hexokinase family,2,0,0,0,0,0
+Hexosaminidases,2,1,0,0,0,0
+Histamine receptors,0,0,1,0,0,0
+Histatins and statherin,5,1,0,0,0,0
+Histidine methyltransferases,3,1,0,0,0,0
+Histidine triad superfamily,5,1,0,0,0,1
+"Histone deacetylases, class I",3,0,0,0,0,0
+"Histone deacetylases, class IIA",4,0,0,0,0,0
+"Histone deacetylases, class IIB",4,0,1,0,0,0
+"Histone deacetylases, class IV",2,0,0,0,0,0
+Histone lysine methyltransferases,4,1,0,1,0,1
+Homeodomain interacting protein kinase family,3,0,1,0,0,0
+Homer scaffold proteins ,2,0,0,0,0,0
+Homocysteine domain containing methyltransferases,5,1,0,0,0,0
+Hyaluronidases,3,1,1,0,0,0
+Hydrogen voltage gated channels,4,0,1,0,0,0
+Hydroxycarboxylic acid receptors,2,0,1,0,0,0
+Hypocretin receptors,1,0,1,0,0,0
+I kappa B kinases,4,0,0,0,0,0
+I-BAR domain containing,0,0,0,0,0,0
+I-set domain containing,0,1,1,0,0,1
+IFT-A complex,3,0,0,0,0,0
+IFT-B1 complex,3,0,0,0,0,0
+IFT-B2 complex,3,0,0,0,0,0
+IGF like family,5,1,0,0,0,0
+IKK complex,2,0,0,0,0,0
+INO80 complex,4,0,1,1,0,1
+IPT domain containing,2,1,1,1,0,1
+IQ motif containing GTPase activating protein family,2,0,0,0,0,0
+IQSEC ARFGEF family,1,0,0,0,0,0
+IZUMO family,3,1,1,0,0,0
+Ig-like cell adhesion molecule family,1,1,1,0,0,0
+IgCAM CXADR-related subfamily,0,1,1,0,0,0
+IgLON cell adhesion molecules,1,1,1,0,0,0
+Immunoglobulin heavy (IGH) orphons,3,1,0,0,0,0
+Immunoglobulin kappa (IGK) orphons,2,1,0,0,0,0
+Immunoglobulin kappa locus at 2p11.2,2,1,0,0,0,0
+Immunoglobulin like domain containing,2,1,1,0,0,1
+Importins,3,1,0,0,0,0
+Inhibin subunits,5,1,0,0,0,0
+Inhibitory leukocyte immunoglobulin like receptors,2,1,1,0,0,0
+Inosine monophosphate dehydrogenase family,4,0,0,0,0,0
+"Inositol 1,4,5-triphosphate receptors",3,0,1,0,0,0
+Insulin family,0,1,1,0,0,0
+Insulin like growth factor binding proteins,0,1,0,0,0,0
+Insulin receptor family,1,0,1,0,0,0
+Integrase like retrotransposon derived,3,0,1,1,0,0
+Integrator complex,4,1,1,0,0,0
+Integrin alpha subunits,0,1,1,0,0,0
+Integrin beta subunits,0,1,1,0,0,0
+Inter-alpha-trypsin inhibitor heavy chains,5,1,0,0,0,0
+Interferon receptors,2,1,1,0,0,0
+Interferon regulatory factors ,2,0,0,0,0,0
+Interferons,5,1,0,0,0,0
+Interleukin 6 type cytokine family,2,1,1,0,0,0
+Interleukin receptors,2,1,1,0,0,1
+Interleukins,2,1,1,0,0,1
+Intermediate filament family orphans,4,0,0,0,0,0
+Intermediate filaments Type III,0,0,0,0,0,0
+Intermediate filaments Type IV,1,0,0,0,0,0
+Iron (II) and 2-oxoglutarate dependent oxygenases,4,0,0,1,0,0
+Isoaspartate methyltransferases,3,0,1,0,0,0
+Isocitrate dehydrogenases,5,0,0,0,0,1
+Isthmin family,0,1,0,0,0,0
+JAMM/MPN+ metallopeptidase family,4,1,0,0,0,0
+Jak family tyrosine kinases,2,0,0,0,0,1
+JmjC hydroxylases,4,0,0,0,0,0
+Jun transcription factor family,2,0,0,1,0,1
+Junctophilins,1,0,1,0,0,0
+KASH domain containing,3,0,1,0,0,0
+KCTD family,3,0,1,0,0,0
+KDEL endoplasmic reticulum protein retention receptors,0,0,1,0,0,0
+KEOPS complex,4,0,0,0,0,0
+KICSTOR complex,4,0,0,0,0,0
+KLF transcription factors,2,0,0,1,0,1
+KN motif and ankyrin repeat domain containing,0,0,0,0,0,0
+KNL1 complex,2,0,0,0,0,1
+KRAB domain containing,3,1,1,1,0,1
+Kallikreins,5,1,0,0,0,1
+Kelch like,0,0,0,0,0,0
+Keratin associated proteins,4,0,0,0,0,0
+Keratins,1,0,0,0,0,0
+"Keratins, type I",5,0,0,0,0,0
+"Keratins, type II",5,0,0,0,0,0
+Killer cell immunoglobulin like receptors,2,1,1,0,0,0
+Killer cell lectin like receptors,2,0,1,0,0,0
+Kinesins,4,1,0,0,0,1
+Kleisins,3,0,0,0,0,0
+L ribosomal proteins,1,1,0,0,0,1
+L-lactate dehydrogenase family,3,0,1,0,0,0
+LAR protein receptor tyrosine phosphatase family,0,1,1,0,0,0
+LEM domain containing,4,0,1,0,0,0
+LGI family,1,1,0,0,0,0
+LHFPL tetraspan proteins,1,0,1,0,0,1
+LIM class homeoboxes,3,0,0,1,0,0
+LIM domain containing,0,1,0,0,0,1
+LIMK/TESK kinase family,4,0,0,0,0,0
+LIMS zinc finger family,0,0,0,0,0,0
+LINE1 element derived gene,0,0,0,0,0,0
+LRAT domain containing ,0,0,0,0,0,0
+LSm proteins,4,1,0,0,0,0
+LY6/PLAUR domain containing,5,1,1,0,0,0
+LYR motif containing,3,0,0,0,0,0
+La ribonucleoproteins,3,0,1,0,0,0
+Laminin subunits,0,1,0,0,0,0
+Lamins,2,0,0,0,0,0
+Large MAF bZIP transcription factor family,3,0,0,1,0,1
+Large ribosomal subunit biogenesis complex,4,0,0,0,0,0
+Large subunit mitochondrial ribosomal proteins,5,1,1,0,0,0
+Large tumor suppressor kinase family,4,0,0,0,0,0
+Late cornified envelope proteins,5,0,0,0,0,0
+Latent transforming growth factor beta binding proteins,0,1,0,0,0,0
+Leiomodins,5,0,0,0,0,0
+Leucine rich repeats and calponin homology domain containing,4,1,1,0,0,0
+Leucine zipper tumor suppressor family,0,0,0,0,0,0
+Leukotriene receptors,2,0,1,0,0,0
+Linear ubiquitin chain assembly complex ,4,0,0,0,0,0
+Lipases,5,1,1,0,0,0
+Lipid phosphatases,0,0,1,0,0,0
+Lipins,0,0,0,0,0,0
+Lipocalins,5,1,1,0,0,0
+Long intergenic non-protein coding RNAs,5,1,1,0,0,0
+Long non-coding RNAs with FAM root symbol,3,0,0,0,0,0
+Long non-coding RNAs with non-systematic symbols,3,1,1,0,0,0
+Long pentraxins,1,1,0,0,0,0
+Low density lipoprotein receptors,0,1,1,0,0,0
+LysM domain containing,3,0,1,0,0,0
+Lysine acetyltransferases,4,1,0,0,0,0
+Lysine demethylases,4,1,0,1,0,1
+Lysophosphatidic acid receptors,2,0,1,0,0,0
+Lysophospholipid acyltransferases,3,0,1,0,0,0
+Lysosome associated membrane proteins,2,1,1,0,0,0
+"Lysozymes, c-type",5,1,1,0,0,0
+"Lysozymes, g-type",3,1,0,0,0,0
+M1 metallopeptidases,2,1,1,0,0,0
+M10 matrix metallopeptidases,0,1,1,0,0,0
+M13 metallopeptidases,4,0,1,0,0,0
+M14 carboxypeptidases,3,1,1,0,0,0
+M16 metallopeptidases,5,1,0,0,0,0
+M19 metallopeptidases,3,1,1,0,0,0
+M20 metallopeptidases,0,1,0,0,0,0
+M24 metallopeptidase family,4,1,0,0,0,0
+M28 metallopeptidases,2,1,1,0,0,1
+M3 metallopeptidase family,3,0,0,0,0,0
+M38 metallopeptidases,1,0,0,0,0,0
+M48 metallopeptidase family,5,0,1,0,0,0
+M49 metallopeptidase family,2,0,0,0,0,0
+M54 metallopeptidase family,3,0,0,0,0,0
+M76 metallopeptidase family,3,0,0,0,0,0
+MAB21 family,0,0,0,0,0,0
+MADS box family,0,0,0,1,0,0
+MAGE family,3,0,1,0,0,0
+MAP kinase phosphatases,2,0,0,0,0,0
+MAPK activated protein kinases,3,0,0,0,0,0
+MAPK interacting serine/threonine kinase family,1,0,1,0,0,0
+MAPKAPK family,5,0,1,0,0,0
+MARVEL domain containing,0,1,1,0,0,0
+MAX dimerization proteins,2,0,0,1,0,0
+MBL domain containing glyoxalase 2 subfamily,5,0,0,0,0,0
+MBL fold containing DNA/RNA interacting subfamily,4,0,0,0,0,0
+MBT domain containing,4,1,0,1,0,0
+MCM family,4,1,0,0,0,0
+MCU complex subunits,5,1,1,0,0,0
+MD-2 related lipid recognition domain containing,2,1,0,0,0,0
+MELK family kinases,2,0,1,0,0,0
+MIA family,0,1,1,0,0,0
+MIF family,5,1,0,0,0,0
+MIF4G domain containing proteins,4,1,1,0,0,0
+MINDY deubiquitinases,3,0,0,0,0,0
+MIS12 kinetochore complex,4,0,0,0,0,0
+MJD deubiquinating enzymes,2,0,1,0,0,0
+MKS complex,3,1,1,0,0,0
+MMB complex subunits,2,0,0,1,0,0
+MOB kinase activators,2,0,0,0,0,0
+MPP10 subcomplex,4,1,1,0,0,0
+MRH domain containing ,2,0,0,0,0,0
+MRN complex,4,0,0,0,0,1
+MSL histone acetyltransferase complex,4,0,0,0,0,0
+MTOR complex 1,0,0,0,0,0,0
+MTOR complex 2,3,0,0,0,0,0
+MX dynamin like GTPase family,2,0,0,0,0,0
+MYST type domain containing lysine acetyltransferases,4,0,0,1,0,1
+Macro domain containing,2,1,0,0,0,0
+Maestro heat like repeat containing,3,0,0,0,0,0
+Major cadherins,0,0,1,0,0,0
+Malate dehydrogenases,5,0,0,0,0,0
+Mannosidases alpha class 1,2,1,1,0,0,0
+Mannosidases alpha class 2,2,1,1,0,0,0
+Mannosidases endo-alpha,0,1,1,0,0,0
+Mannosidases type beta,3,1,1,0,0,0
+Mannosyl-glycoprotein N-acetylglucosaminyltransferases,3,1,1,0,0,0
+Mariner transposase derived genes,3,0,0,0,0,0
+Matrilins,0,1,0,0,0,0
+Mediator complex,4,1,1,0,0,1
+Melanin concentrating hormone receptors,1,0,1,0,0,0
+Melanocortin receptors,5,0,1,0,0,0
+Melatonin receptors,5,0,1,0,0,0
+Membrane Attack complex,5,1,0,0,0,0
+Membrane associated collagens with interrupted triple helices,3,0,1,0,0,0
+Membrane associated progesterone receptor family,0,1,1,0,0,0
+Membrane associated ring-CH-type fingers,4,0,1,0,0,0
+Membrane bound O-acyltransferase family,3,0,1,0,0,0
+Membrane spanning 4-domains,2,1,1,0,0,0
+Membrane-bound methyltransferase family,3,0,1,0,0,0
+Metallo-beta-lactamase fold containing family,3,1,0,0,0,0
+Metallothioneins,0,1,0,0,0,0
+Metaxins,3,1,1,0,0,0
+Methionine adenosyltransferase family,5,0,0,0,0,0
+Methyl-CpG binding domain containing,4,1,1,1,0,0
+Methylcrotonyl-CoA carboxylase subunits,5,1,0,0,0,0
+Methyltransferases with unique structures,5,0,0,0,0,0
+MiDAC complex subunits,4,0,0,1,0,0
+MicroRNA non-coding host genes,1,1,0,0,0,0
+MicroRNA protein coding host genes,3,1,1,1,0,1
+Microsomal glutathione S-transferases,5,1,1,0,0,0
+Microtubule affinity regulating kinases,3,0,1,0,0,0
+Microtubule associated protein RP/EB family ,1,0,0,0,0,0
+Microtubule associated serine/threonine kinase family,4,0,1,0,0,0
+Minor histocompatibility antigens,2,1,1,1,0,0
+Misc,3,1,1,1,0,1
+Mitochondrial RNase P complex,5,0,0,0,0,0
+Mitochondrial complex I assembly complex,5,1,1,0,0,0
+Mitochondrial complex II: succinate dehydrogenase subunits,5,1,1,0,0,1
+Mitochondrial complex III: ubiquinol-cytochrome c reductase complex subunits,5,0,1,0,0,0
+Mitochondrial complex IV: cytochrome c oxidase subunits,5,0,1,0,0,1
+Mitochondrial complex V: ATP synthase subunits,5,1,1,0,0,0
+Mitochondrial contact site and cristae organizing system subunits,5,1,1,0,0,0
+Mitochondrial iron-sulfur assembly components,5,1,0,0,0,0
+Mitochondrial nucleoid associated proteins,4,1,1,0,0,0
+Mitochondrial respiratory chain complex assembly factors,5,1,1,0,0,1
+Mitochondrial ribosomal proteins,5,1,0,0,0,0
+Mitochondrial sorting and assembly machinery complex,5,0,0,0,0,0
+Mitochondrial transcription initiation complex subunits,3,1,0,1,0,0
+Mitochondrial translation release factor family,4,0,0,0,0,0
+Mitochondrially encoded protein coding genes,5,0,1,0,0,0
+Mitofusin family,5,0,1,0,0,0
+Mitogen-activated protein kinase kinase kinase kinases,4,1,0,0,0,0
+Mitogen-activated protein kinase kinase kinases,4,1,1,0,0,1
+Mitogen-activated protein kinase kinases,5,0,0,0,0,1
+Mitogen-activated protein kinases,3,0,0,0,0,0
+Mucins,0,1,1,0,0,1
+Multicopper ferroxidase family,2,1,1,0,0,0
+Multicopper oxidase family,5,1,0,0,0,0
+Multiple C2 and transmembrane domain containing,2,0,1,0,0,0
+Multiplexin collagens,0,1,0,0,0,0
+MutL homologs,3,0,0,0,0,1
+MutS homologs,4,1,0,0,0,1
+MuvB complex subunits,4,0,0,0,0,0
+My-T-BRC complex,2,0,1,0,0,1
+Myb/SANT domain containing,4,1,1,1,0,1
+Myocardin family,3,0,0,0,0,1
+Myogenic regulatory family,5,0,0,1,0,0
+Myosin binding proteins,5,0,0,0,0,0
+"Myosin heavy chains, class I",2,0,0,0,0,0
+"Myosin heavy chains, class II",5,0,0,0,0,1
+"Myosin heavy chains, class III",3,0,0,0,0,0
+"Myosin heavy chains, class IX",4,0,0,0,0,0
+"Myosin heavy chains, class V",1,0,0,0,0,0
+"Myosin heavy chains, class VI",0,0,0,0,0,0
+"Myosin heavy chains, class XVI",1,0,0,0,0,0
+"Myosin heavy chains, class XVIII",5,0,0,0,0,0
+Myosin light chain kinase family,5,1,1,0,0,0
+"Myosin light chains, class 1",5,1,0,0,0,0
+"Myosin light chains, class 2",5,0,0,0,0,0
+Myosin phosphatase targeting family,0,0,0,0,0,0
+Myotubularins,4,1,1,0,0,0
+Myozenins,5,0,0,0,0,0
+N- and C-terminal methyltransferases,5,0,1,0,0,0
+N-Ank proteins,3,0,0,0,0,0
+N-BAR domain containing,1,0,0,0,0,1
+N-alpha-acetyltransferase subunits,3,0,0,0,0,0
+N-arachidonoylethanolamine hydrolases,0,1,1,0,0,0
+N-myristoyltransferase family,4,0,0,0,0,0
+NADH oxidase family,1,0,1,0,0,0
+NADH:ubiquinone oxidoreductase core subunits,5,0,0,0,0,0
+NADH:ubiquinone oxidoreductase supernumerary subunits,5,1,1,0,0,0
+NALCN channel complex subunits,1,0,1,0,0,0
+NBPF members,3,0,0,0,0,0
+NCoR/SMRT transcriptional repression complex subunits,4,0,0,1,0,1
+NDC80 kinetochore complex ,2,0,0,0,0,0
+NDRG family,1,0,1,0,0,1
+NHERF family PDZ scaffold proteins,0,0,0,0,0,0
+NHS family,0,0,0,0,0,0
+NIM1K family kinases,1,0,1,0,0,0
+NIMA related kinase family,3,0,0,0,0,0
+NKL subclass homeoboxes and pseudogenes,5,0,0,1,0,1
+NLR family,2,1,0,0,0,1
+NME/NM23 family,3,1,0,0,0,0
+NPHP complex,3,0,1,0,0,0
+NRZ tethering complex,4,0,1,0,0,0
+NSL histone acetyltransferase complex,4,0,0,0,0,0
+NSP adaptor proteins,2,0,0,0,0,0
+NT-C2 domain containing,2,0,0,0,0,0
+NTC associated proteins,4,1,1,0,0,0
+NUAK family kinases,0,0,1,0,0,0
+NURF complex,4,0,0,0,0,0
+Na+/K+ transporting ATPase interacting,1,0,1,0,0,0
+Nebulin family,5,0,0,0,0,1
+Nectins and nectin-like molecules,0,1,1,0,0,0
+Negative elongation factor complex members,4,0,0,0,0,0
+Netrins,1,1,0,0,0,0
+Network forming collagens,0,1,0,0,0,0
+Neuraminidases,0,0,0,0,0,0
+Neuregulins,3,1,1,0,0,0
+Neurexins,1,1,1,0,0,0
+Neurexophilin and PC-esterase domain containing,0,1,1,0,0,0
+Neurexophilins,1,1,0,0,0,0
+Neuroligins,1,1,1,0,0,0
+Neuromedin U receptors,3,0,1,0,0,0
+Neuropeptide FF receptors,0,1,1,0,0,0
+Neuropeptide S receptor,5,0,1,0,0,0
+Neuropeptide Y receptors,1,0,1,0,0,0
+Neuropeptides,5,1,0,0,0,0
+Neuropeptides B and W receptors,5,0,1,0,0,0
+Neurotensin receptors,1,0,1,0,0,0
+Neurotrophins,0,1,1,0,0,0
+NineTeen complex,4,0,0,0,0,0
+NoRC complex,4,0,0,1,0,0
+Non-canonical high mobility group,4,0,0,1,0,0
+Non-canonical poly(A) polymerases,4,0,1,0,0,0
+Non-clustered protocadherins,1,1,1,0,0,0
+Non-histone lysine methyltransferases,3,0,1,0,0,0
+Notch receptors,0,0,1,0,0,1
+NuRD complex subunits,4,1,0,1,0,0
+Nuclear RNase P complex subunits,4,0,0,0,0,0
+Nuclear exosome targeting complex,4,0,0,0,0,0
+Nuclear factor I family,2,0,0,1,0,1
+Nuclear receptor subfamily 0 group B,5,0,0,1,0,0
+Nuclear receptor subfamily 1 group D,2,0,0,1,0,0
+Nuclear receptor subfamily 1 group H,0,0,0,1,0,0
+Nuclear receptor subfamily 1 group I,0,0,0,1,0,0
+Nuclear receptor subfamily 2 group C,4,0,0,1,0,0
+Nuclear receptor subfamily 2 group E,1,0,0,1,0,0
+Nuclear receptor subfamily 2 group F,0,0,0,1,0,0
+Nuclear receptor subfamily 3 group C,0,0,0,1,0,0
+Nuclear receptor subfamily 4 group A,2,0,0,1,0,1
+Nuclear receptor subfamily 5 group A,5,0,0,1,0,0
+Nuclear receptor subfamily 6 group A,3,0,0,1,0,0
+Nucleoporins,4,1,1,0,0,1
+Nucleoredoxin family,0,0,0,0,0,0
+Nucleosome assembly protein 1 like family,3,0,0,0,0,0
+Nucleosome assembly protein superfamily,4,0,0,0,0,1
+Nucleotide excision repair,4,1,0,0,0,1
+NudC family,3,0,1,0,0,0
+Nudix hydrolase family,5,1,1,0,0,0
+O-linked N-acetylglucosaminyltransferases,0,1,1,0,0,0
+OOSP family,0,1,0,0,0,0
+ORAI calcium release-activated calcium modulators,2,0,1,0,0,0
+OTU domain containing,4,1,1,0,0,1
+Olfactomedin domain containing ,0,0,0,0,0,0
+"Olfactory receptors, family 1",5,0,1,0,0,0
+"Olfactory receptors, family 10",5,0,1,0,0,0
+"Olfactory receptors, family 11",5,0,1,0,0,0
+"Olfactory receptors, family 12",4,0,1,0,0,0
+"Olfactory receptors, family 13",5,0,1,0,0,0
+"Olfactory receptors, family 14",0,0,1,0,0,0
+"Olfactory receptors, family 2",5,0,1,0,0,0
+"Olfactory receptors, family 3",5,0,1,0,0,0
+"Olfactory receptors, family 4",5,0,1,0,0,0
+"Olfactory receptors, family 5",4,0,1,0,0,0
+"Olfactory receptors, family 51",4,0,1,0,0,0
+"Olfactory receptors, family 52",5,0,1,0,0,0
+"Olfactory receptors, family 56",5,0,1,0,0,0
+"Olfactory receptors, family 6",5,0,1,0,0,0
+"Olfactory receptors, family 7",5,0,1,0,0,0
+"Olfactory receptors, family 8",5,0,1,0,0,0
+"Olfactory receptors, family 9",5,0,1,0,0,0
+Oligosaccharyltransferase complex subunits,2,1,1,0,0,1
+Opioid receptors,1,0,1,0,0,0
+Opsin receptors,1,0,1,0,0,0
+Origin recognition complex,4,0,0,0,0,0
+Outer dynein arm docking complex subunits,3,0,0,0,0,0
+Overlapping transcripts,0,1,0,0,0,0
+Oxoglutarate dehydrogenase complex,5,0,0,0,0,0
+Oxoglutarate dehydrogenase family,5,0,0,0,0,0
+Oxoglutarate receptor,0,0,1,0,0,0
+Oxysterol binding proteins,3,0,1,0,0,0
+P-TEFb complex subunits,4,0,0,0,0,0
+P2Y receptors,2,0,1,0,0,0
+PAGE family,3,0,0,0,0,0
+PAR bZIP family,2,0,0,1,0,1
+PARN exonuclease family,4,0,1,0,0,0
+PAS domain containing,3,1,1,1,0,1
+PASK family kinases,4,0,0,0,0,0
+PBAF complex subunits,4,0,0,1,0,1
+PDZ domain containing,3,1,1,0,0,1
+PEAK pseudokinase family,2,0,0,0,0,0
+PHD finger proteins,4,1,1,1,0,1
+PI4KA lipid kinase complex,4,0,1,0,0,0
+PIK3C3 complex subunits,4,0,0,0,0,0
+PIM kinase family,2,0,1,0,0,1
+PIN-like domain superfamily,3,1,0,0,0,0
+PLAC8 family,2,0,0,0,0,0
+POTE ankyrin domain containing,3,0,1,0,0,0
+POU class homeoboxes and pseudogenes,1,1,0,1,0,1
+PPFI scaffold protein family,1,0,1,0,0,0
+PR/SET domain family,4,1,0,1,0,1
+PRAME family,5,0,0,0,0,0
+PRD class homeoboxes and pseudogenes,5,1,0,1,0,1
+PRELI domain containing,2,0,0,0,0,0
+PROS class homeoboxes,3,0,0,1,0,0
+PTEN protein phosphatases,3,0,1,0,0,1
+PTF1 complex,4,0,0,1,0,0
+PTK6 family tyrosine kinases,0,0,0,0,0,0
+PWWP domain containing,3,0,0,1,0,1
+PX-BAR domain containing,2,0,0,0,0,0
+Paf1/RNA polymerase II complex ,4,0,0,0,0,0
+Paired boxes,5,1,0,1,0,1
+Pannexins,5,0,1,0,0,0
+Pantothenate kinase family,5,0,0,0,0,0
+Pappalysins,0,1,1,0,0,0
+Paralemmins,0,0,0,0,0,0
+Paraneoplastic Ma antigens,1,0,0,0,0,0
+Paraoxonases,5,1,0,0,0,0
+Parathyroid hormone receptors,1,0,1,0,0,0
+Parvins,2,1,1,0,0,0
+Parvulins,1,0,0,0,0,0
+Patatin like phospholipase domain containing,1,1,1,0,0,0
+PeBoW complex,4,0,0,0,0,0
+Pecanex family,4,1,1,0,0,0
+Pellino E3 ubiquitin protein ligases,3,0,0,0,0,0
+Pentatricopeptide repeat containing,4,1,0,0,0,0
+Pepsinogens,0,1,0,0,0,0
+Peptidase family A1,0,1,1,0,0,0
+Peptidase family A22,0,0,1,0,0,0
+Peptidase family A28 ,4,0,0,0,0,0
+Peptidase family C1,0,1,0,0,0,0
+Peptide receptors,5,0,1,0,0,0
+Peptidoglycan recognition proteins,5,1,1,0,0,0
+Peptidyl arginine deiminases,0,0,0,0,0,0
+Perilipins,5,0,1,0,0,0
+Peroxins,3,0,1,0,0,0
+Peroxiredoxins,5,1,0,0,0,0
+Peroxisome proliferator activated receptors,0,0,0,1,0,1
+Phosphatase and actin regulators,2,1,0,0,0,0
+Phosphatidylinositol 3-kinase family,2,0,0,0,0,1
+Phosphatidylinositol glycan anchor biosynthesis,3,0,1,0,0,0

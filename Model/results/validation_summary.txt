@@ -1,0 +1,24 @@
+Validation summary
+
+Timestamp: Sun Nov 30 16:29:33 2025
+Family expression used: D:\Projects\UhlenGF\Model\results\gf_exp.csv
+Modules file used: D:\Projects\UhlenGF\Model\results\modules_louvain.csv
+
+Correlation coherence
+  Number of modules tested: 6
+  Permutations used for p-value: 500
+
+ML classification summary (cross-validated)
+  Accuracy mean: 0.7816
+  Macro F1 mean: 0.7819
+  Macro AUROC mean: 0.9448
+
+Files produced:
+ - D:\Projects\UhlenGF\Model\results\validation_correlation.csv
+ - D:\Projects\UhlenGF\Model\results\validation_silhouette.csv
+ - D:\Projects\UhlenGF\Model\results\ml_classification_report.csv
+
+Interpretation tips:
+ - Within > between correlation with small p-value suggests coherent modules.
+ - High silhouette indicates embeddings separate modules well.
+ - Good ML accuracy / AUROC suggests modules are separable by their expression patterns.
