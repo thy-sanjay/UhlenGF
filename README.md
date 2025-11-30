@@ -1,6 +1,6 @@
 # UhlenGF
 
-### **Uhlén Human Tissue Proteome Gene Family Classifier and Discovery Panel**
+### **ML based Uhlén Human Tissue Proteome Gene Family Classifier and Discovery Panel**
 
 ---
 
